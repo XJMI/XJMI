@@ -5,6 +5,6 @@ I also know HTML, CSS, LUA-U + LUA
 ![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=blue)
 </br>
 <br>
-![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=XJMI&theme=cobalt&show_icons=true)
+![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=XJMI&theme=tokyonight&show_icons=true)
 <!--
 **XJMI/XJMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
