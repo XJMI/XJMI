@@ -2,7 +2,7 @@
 Somewhatish java programmer 
 I also know HTML, CSS, LUA-U + LUA
 <br>
-![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=black)
+![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=red)
 </br>
 <br>
 ![ ](https://github-readme-stats.vercel.app/api/top-langs/?username=XJMI&theme=dark&show_icons=true)
