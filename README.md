@@ -1,6 +1,7 @@
 ### Discord is XJMI#3084
 Somewhatish java programmer 
 I also know HTML, CSS, LUA-U + LUA
+\
 <br>
 ![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=red)
 </br>
