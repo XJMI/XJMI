@@ -3,7 +3,7 @@ Somewhatish java programmer
 I also know HTML, CSS, LUA-U + LUA
 \
 <br>
-![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat&color=blueviolet)
+![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=blueviolet)
 </br>
 <br>
 <!--
