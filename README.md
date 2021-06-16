@@ -1,6 +1,8 @@
 ### Discord is XJMI#3084
-Somewhatish java programmer 
-I also know HTML, CSS, LUA-U + LUA
+
+currently working on c++ and c# overall software development.
+\
+other things i know from the past Html, Css, Lua-U
 \
 <br>
 ![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=blueviolet)
