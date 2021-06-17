@@ -2,7 +2,7 @@
 
 currently working on c++ and c# overall software development.
 \
-other things i know from the past Html, Css, Lua-U
+other things i know from the past Html, Css, Lua-U a bit of java
 \
 <br>
 ![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=blueviolet)
