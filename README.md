@@ -1,6 +1,6 @@
 ### Discord is XJMI#3084
 
-currently working on c++ and c# overall software development.
+currently working: nothing really, just messing around still sticking with minecraft.
 \
 other things i know from the past Html, Css, Lua-U a bit of java
 \
