@@ -6,6 +6,7 @@ other things i know from the past Html, Css, Lua-U a bit of java
 \
 <br>
 ![ ](https://komarev.com/ghpvc/?username=XJMI&style=flat-square&color=blueviolet)
+![](https://img.shields.io/discord/866021528344985641?color=%23008ec2&label=My%20Dsicord&style=flat-square)
 </br>
 <br>
 <!--
