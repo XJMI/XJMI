@@ -1,10 +1,11 @@
 ### Hi, I'm XJMI Aka Lx16 👋
 ![](https://img.shields.io/discord/866021528344985641?color=%235865F2&label=My%20Server&logo=discord&style=flat-square)
+![](https://komarev.com/ghpvc/?username=XJMI&color=5865F2&style=flat-square)
 ##
 ### Current Year Goals:
-- Work with more java and html 😎
-- Hopefully finish mares as what I planned 😂
-- Everything else as usual ⌚
+- 😎 Work with more java and html
+- 😂 Hopefully finish mares as what I planned
+- ⌚ Everything else as usual
 ##
 ### Languages And Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -18,6 +19,11 @@
 </br>
 <br>
 
+##
+<details>
+  <summary>:sparkles: GitHub Stats</summary>
+  <img align="left" alt="XJMI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XJMI&show_icons=true" />
+</details>
 
 <!--
 **XJMI/XJMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
