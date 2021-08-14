@@ -19,13 +19,24 @@
 <br>
 
 ##
+
+### Time With Languages & Tools:
+- Visual Studio Code **4+ Years**
+- IntelliJ IDEA **1 Month**
+- Terminal **2+ Years**
+- Node.js **1 Year**
+- HTML **4+ Years**
+- CSS **4+ Years**
+- LUA-U **5 Years**
+- JAVA **1 Month**
+
+##
 <details>
   <summary>:sparkles: GitHub Stats</summary>
   <img align="left" alt="XJMI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XJMI&show_icons=true" />
 </details>
 <details>
   <summary>:fire: Thing</summary>
-  <img align="left" alt="" src="" />
 </details>
 <!--
 **XJMI/XJMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
