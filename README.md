@@ -1,5 +1,4 @@
 ### Hi, I'm XJMI Aka Lx16 👋
-![](https://img.shields.io/discord/866021528344985641?color=%235865F2&label=My%20Server&logo=discord&style=flat-square)
 ![](https://komarev.com/ghpvc/?username=XJMI&color=5865F2&style=flat-square)
 ##
 ### Current Year Goals:
@@ -24,6 +23,9 @@
   <summary>:sparkles: GitHub Stats</summary>
   <img align="left" alt="XJMI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XJMI&show_icons=true" />
 </details>
-
+<details>
+  <summary>:fire: Thing</summary>
+  <img align="left" alt="" src="" />
+</details>
 <!--
 **XJMI/XJMI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
