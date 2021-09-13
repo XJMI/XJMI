@@ -1,10 +1,8 @@
-### Hi, I'm XJMI Aka Lx16 👋
+### Hi, I'm XJMI 👋
 ![](https://komarev.com/ghpvc/?username=XJMI&color=5865F2&style=flat-square)
 ##
 ### Current Year Goals:
-- 😎 Work with more java and html
-- 😂 Hopefully finish mares as what I planned
-- ⌚ Everything else as usual
+- None, I quit java its really boring.
 ##
 ### Languages And Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -22,7 +20,7 @@
 
 ### Time With Languages & Tools:
 - Visual Studio Code **4+ Years**
-- IntelliJ IDEA **1 Month**
+- IntelliJ IDEA **1 Months**
 - Terminal **2+ Years**
 - Node.js **1 Year**
 - HTML **4+ Years**
