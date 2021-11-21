@@ -11,7 +11,8 @@
 <img align="left" alt="JAVA" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" />
 </br>
 <br>
-##
+
+
 <details>
   <summary>:sparkles: GitHub Stats</summary>
   <img align="left" alt="XJMI's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=XJMI&show_icons=true" />
